@@ -36,10 +36,10 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["🔗 https://discord.gg/xm56Cf6HaN"];
 
 
-let currentIndex = 0;
+ok let currentIndex = 0;
 const channelId = '';
 
 async function login() {
